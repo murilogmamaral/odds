@@ -641,7 +641,7 @@ font-size: 11px;
 }
 
 ui <- fluidPage(
-  tags$head(includeHTML(("google-analytics.html"))),
+  #tags$head(includeHTML(("google-analytics.html"))),
   tags$style(HTML(reds.completo)), #♣♠♦♥
   BACKGROUND(),
   HTML("<br>"),
