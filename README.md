@@ -4,3 +4,6 @@ Desenvolvi este aplicativo em R Shiny para estudar as probabilidades de um jogad
 
 Veja o resultado em:
 [https://mypokerstudies.shinyapps.io/odds/](https://mypokerstudies.shinyapps.io/odds/)
+
+
+![](https://github.com/murilogmamaral/odds/blob/main/img.png?raw=true)
