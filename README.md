@@ -1,9 +1,11 @@
-# odds
+## Poker odds  
 
-Desenvolvi este aplicativo em R Shiny para estudar as probabilidades de um jogador de poker ganhar uma mão, em cenários com até dois oponentes. Ter conhecimento dessas probabilidades é fundamental para boas tomadas de decisão durante os torneios (Texas Hold'em).
-
-Veja o resultado em:
-[https://mypokerstudies.shinyapps.io/odds/](https://mypokerstudies.shinyapps.io/odds/)
-
-
+### Description
+I have developed this Shiny App in 2020 to study poker odds based on frequency approach.  
+<br>  
+### Usage
+Go to [https://mypokerstudies.shinyapps.io/odds/](https://mypokerstudies.shinyapps.io/odds/) to see the deployed app.  
+Or download the _app.R_ and run it in your RStudio.  
+<br>
+### Preview
 ![](https://github.com/murilogmamaral/odds/blob/main/img.png?raw=true)
