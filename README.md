@@ -1,7 +1,7 @@
 ## Poker odds  
 
 ### Description
-I have developed this Shiny App in 2020 to study poker odds based on frequency approach.  
+I developed this Shiny App in 2020 to study poker odds based on frequency approach.  
 <br>  
 ### Usage
 Go to [https://mypokerstudies.shinyapps.io/odds/](https://mypokerstudies.shinyapps.io/odds/) to see the deployed app.  
